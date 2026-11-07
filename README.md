@@ -20,3 +20,7 @@ O Gateway automatiza esse processo. Ele recebe a lista de componentes, busca em 
 | Página (GitHub Pages) | <https://ph-b-campos.github.io/gateway/> |
 | Proposta inicial | [docs/proposta.md](docs/proposta.md) · [na página](https://ph-b-campos.github.io/gateway/proposta.html) |
 | Análise de valor (Pirâmides B2B e B2C) | [docs/analise-de-valor.md](docs/analise-de-valor.md) · [na página](https://ph-b-campos.github.io/gateway/analise-de-valor.html) |
+
+## Entregas
+
+- **Partes interessadas e desejos (MoSCoW)**: [docs/partes-interessadas.md](docs/partes-interessadas.md) · [na Wiki](https://github.com/ph-b-campos/gateway/wiki/Partes-Interessadas)
