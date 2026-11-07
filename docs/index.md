@@ -14,6 +14,7 @@ O Gateway recebe uma lista de componentes eletrônicos, busca em vários fornece
 
 - [Proposta inicial do projeto](proposta.md): descrição informal do problema e do sistema.
 - [Análise de valor (Pirâmides B2B e B2C)](analise-de-valor.md): elementos de valor escolhidos e a justificativa de cada um.
+- [Partes interessadas e desejos (MoSCoW)](partes-interessadas.md): partes interessadas da Livraria Resolve e seus desejos priorizados.
 
 ## Links
 

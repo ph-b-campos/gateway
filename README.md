@@ -23,4 +23,4 @@ O Gateway automatiza esse processo. Ele recebe a lista de componentes, busca em 
 
 ## Entregas
 
-- **Partes interessadas e desejos (MoSCoW)**: [docs/partes-interessadas.md](docs/partes-interessadas.md) · [na Wiki](https://github.com/ph-b-campos/gateway/wiki/Partes-Interessadas)
+- **Partes interessadas e desejos (MoSCoW)**: [docs/partes-interessadas.md](docs/partes-interessadas.md) · [na página](https://ph-b-campos.github.io/gateway/partes-interessadas.html)
